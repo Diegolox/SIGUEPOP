@@ -12,6 +12,12 @@ Este proyecto nace como una herramienta sencilla para facilitar la calibración 
 
 Desde la interfaz gráfica se pueden modificar valores como las constantes PID, la velocidad base, el umbral de detección y otros parámetros del comportamiento del robot. Al pulsar el botón de envío, la aplicación manda los datos al ESP32 en formato JSON a través de un puerto COM Bluetooth.
 
+
+
+## Interfaz de la aplicación
+
+![Interfaz de SIGUEPOP](img/FOTO_APP.png)
+
 ---
 
 ## Funcionalidades principales
