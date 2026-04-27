@@ -49,7 +49,6 @@ La aplicación permite modificar y enviar los siguientes parámetros:
 | `Vbase` | Velocidad base del robot |
 | `Volantazo` | Intensidad de giro o corrección brusca |
 | `Umbral` | Umbral de detección de línea |
-| `MAC` | Dirección MAC del dispositivo Bluetooth |
 | `COM` | Puerto COM asociado al ESP32 |
 | `BAUDRATE` | Velocidad de comunicación serie |
 
