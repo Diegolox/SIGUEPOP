@@ -65,17 +65,3 @@ La aplicación permite modificar y enviar los siguientes parámetros:
 - ESP32
 
 ---
-
-## Estructura del proyecto
-
-```txt
-SIGUEPOP/
-│
-├── app.py              # Interfaz gráfica principal
-├── bluetooth.py        # Gestión de conexión y envío por Bluetooth Serial
-├── files.py            # Lectura y guardado de configuración JSON
-├── main.py             # Punto de entrada de la aplicación
-├── config.json         # Archivo de configuración
-├── icono.ico           # Icono de la aplicación
-├── serial_manager.py   # Versión alternativa para comunicación serie por cable
-└── SIGUEPOP.spec       # Archivo de configuración para generar el .exe
