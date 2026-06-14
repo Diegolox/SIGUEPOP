@@ -49,7 +49,7 @@ La aplicación permite modificar y enviar los siguientes parámetros:
 | `Vbase` | Velocidad base del robot |
 | `Volantazo` | Intensidad de giro o corrección brusca |
 | `Umbral` | Umbral de detección de línea |
-| `COM` | Puerto COM asociado al ESP32 |
+| `COM` | Elegir el puerto COM|
 | `BAUDRATE` | Velocidad de comunicación serie |
 
 ---
