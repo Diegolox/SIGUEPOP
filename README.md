@@ -1,5 +1,5 @@
 # SIGUEPOP 🚗💨
-
+## 🇪🇸 Descripción del proyecto (Español)
 <p align="justify">
 <strong>SIGUEPOP</strong> es una aplicación de escritorio desarrollada en Python para configurar y enviar parámetros de control a un robot siguelíneas basado en ESP32.
 </p>
